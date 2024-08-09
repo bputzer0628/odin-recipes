@@ -1,1 +1,2 @@
 This project is for me to practice what I have learned about git and demonstrate the skills that I am developing# odin-recipes
+I'm doing something wrong that gave me a "refusing to merge unrelated histories error". I got through that by this command : git pull origin main --allow-unrelated-histories. Still trying to figure out where I am going wrong. Could be directory organization. I used git clone so I am still trying to figure out why they are independent of each other. 
